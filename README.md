@@ -1,0 +1,1 @@
+This is a chrome extension to keep a track of websites, tabs visited and even delete the tracked links.
